@@ -9,7 +9,7 @@ module.exports = {
   },
   api: {
     // API_URL: "https://api-node.themesbrand.website",
-    API_URL: "http://144.126.137.33:8081/api/",
+    API_URL: "https://api.medyaizi.com/api/",
   },
   title: {
     name: "Veri Analizi ve Yönetimi Medyaizi"
@@ -18,7 +18,7 @@ module.exports = {
     symbol: "₺"
   },
   backend_api: {
-    url:"http://144.126.137.33:8081/api/"
+    url:"https://api.medyaizi.com/api/"
   }
 };
 
