@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd471214.css",
-    "main.js": "/static/js/main.896184b8.js",
+    "main.css": "/static/css/main.a902be74.css",
+    "main.js": "/static/js/main.1c41d4b9.js",
     "static/js/522.4fdc498c.chunk.js": "/static/js/522.4fdc498c.chunk.js",
     "static/media/img-5.gif": "/static/media/img-5.bfb4402d4c7cd4dff7fa.gif",
     "static/media/img-4.gif": "/static/media/img-4.400976fa859ee6be663f.gif",
@@ -67,6 +67,8 @@
     "static/media/la-brands-400.woff2": "/static/media/la-brands-400.3a8109c4ac75662f8355.woff2",
     "static/media/file.png": "/static/media/file.7460d341c4220363ca42.png",
     "static/media/img-11.jpg": "/static/media/img-11.ee2350a5a6accfd99a8d.jpg",
+    "static/media/logo-dark.png": "/static/media/logo-dark.6a8825f5aa7a19be2345.png",
+    "static/media/logo-light.png": "/static/media/logo-light.6a8825f5aa7a19be2345.png",
     "static/media/d.svg": "/static/media/d.58881ef1bd64019fb16961f9fc9efb69.svg",
     "static/media/img-05.jpg": "/static/media/img-05.537c20d8af68890e1a62.jpg",
     "static/media/verification-img.png": "/static/media/verification-img.7f3671762820437047b2.png",
@@ -77,19 +79,12 @@
     "static/media/hkgrotesk-regular.woff": "/static/media/hkgrotesk-regular.24ff70bdc6ea8999be5c.woff",
     "static/media/img-9.jpg": "/static/media/img-9.0b16bc91d91f179ed8f1.jpg",
     "static/media/comingsoon.png": "/static/media/comingsoon.525686be687133d3e37b.png",
-    "static/media/default.png": "/static/media/default.d55c161260013993d466.png",
     "static/media/avatar-4.jpg": "/static/media/avatar-4.ec3aaf9c6727918e3378.jpg",
     "static/media/img-12.jpg": "/static/media/img-12.bdfe710600cc4deb5c4b.jpg",
-    "static/media/modern.png": "/static/media/modern.831f8f35c2c546218a27.png",
     "static/media/error400-cover.png": "/static/media/error400-cover.95db4d41b85436d77ecc.png",
-    "static/media/minimal.png": "/static/media/minimal.9781e174911ccdc6b214.png",
-    "static/media/material.png": "/static/media/material.ebbce8c3ec92ed8c6f78.png",
     "static/media/img-04.jpg": "/static/media/img-04.e5912b6c7e20bd7603fa.jpg",
-    "static/media/interactive.png": "/static/media/interactive.2948638c4af688e4ac27.png",
     "static/media/hkgrotesk-medium.woff": "/static/media/hkgrotesk-medium.f7632bb9c315727585a3.woff",
-    "static/media/creative.png": "/static/media/creative.4dcf5743e9a8aaf496cd.png",
     "static/media/hkgrotesk-light.woff": "/static/media/hkgrotesk-light.9780da4b0e23acec0b59.woff",
-    "static/media/saas.png": "/static/media/saas.ff1c4af1e3604682e0ff.png",
     "static/media/math.png": "/static/media/math.32f2e3b8ae63d7b34065.png",
     "static/media/img-6.jpg": "/static/media/img-6.bebfc6a706c97269c91c.jpg",
     "static/media/success-payment.png": "/static/media/success-payment.89a5feb23bbfb54cc4df.png",
@@ -97,13 +92,10 @@
     "static/media/la-regular-400.ttf": "/static/media/la-regular-400.cf246e21218cab398b3d.ttf",
     "static/media/login.png": "/static/media/login.aae5473d13a87bef92e5.png",
     "static/media/maintenance.png": "/static/media/maintenance.6ac379cdf9d6e10ab6b0.png",
-    "static/media/logo-dark.png": "/static/media/logo-dark.21927964097e76887aa5.png",
     "static/media/avatar-7.jpg": "/static/media/avatar-7.a991bb8ecd885f209314.jpg",
     "static/media/signup.png": "/static/media/signup.53ee227700764cadbcd5.png",
-    "static/media/logo-light.png": "/static/media/logo-light.d9e880961f83ebc383d5.png",
     "static/media/metamask.png": "/static/media/metamask.cfb9365ddcb2dc8d022e.png",
     "static/media/cover-pattern.png": "/static/media/cover-pattern.181df191d9b702006e4b.png",
-    "static/media/img-pattern.png": "/static/media/img-pattern.b969bdfc06485ca435c9.png",
     "static/media/task.png": "/static/media/task.f2a264e7a384f7c491af.png",
     "static/media/avatar-2.jpg": "/static/media/avatar-2.58874a6f667b9b04ce55.jpg",
     "static/media/binance.png": "/static/media/binance.290a6213adc6b030e4c4.png",
@@ -606,7 +598,7 @@
     "static/media/waves.svg": "/static/media/waves.2c95a006c407ae1604b47828fbf14a9d.svg"
   },
   "entrypoints": [
-    "static/css/main.fd471214.css",
-    "static/js/main.896184b8.js"
+    "static/css/main.a902be74.css",
+    "static/js/main.1c41d4b9.js"
   ]
 }
